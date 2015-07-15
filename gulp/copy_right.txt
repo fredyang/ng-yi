@@ -1,0 +1,4 @@
+/**
+ * @license ng-yi <%= version %> * (c) 2015 Fred Yang http://semanticsworks.com
+ * License: MIT
+ */
